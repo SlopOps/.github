@@ -33,7 +33,3 @@ We bring a unique perspective from years of architecting resilient infrastructur
 - **X**: [@SlopOps](https://x.com/SlopOps) — Daily insights and rants
 - **GitHub**: [SlopOps](https://github.com/SlopOps) — You are here
 - **Gironimo**: [gironimo.ai](https://gironimo.ai) — Project homepage
-
----
-
-*For a certain brave giraffe who always reaches higher.* 🦒✨
