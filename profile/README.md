@@ -1,63 +1,75 @@
 # SlopOps
 
-**Open-source tools and educational content for engineers building production systems with LLMs.**
+**Curated LLM reviews, open-source tools, and educational content for engineers building production-ready AI-assisted workflows.**
 
-SlopOps explores how engineering teams design **reliable AI-assisted development workflows** using large language models, deterministic pipelines, and human review.
-
-Focus: **practical infrastructure and real engineering workflows — not hype.**
+SlopOps focuses on **real engineering workflows**, not hype. The core of the channel is the **Gironimo Bench** — a repeatable, human-verified benchmark that evaluates how modern LLMs perform on real-world software development tasks from specification to implementation.
 
 ---
 
 ## 🦒 Projects
 
-| Project | Description | Links |
-|--------|-------------|-------|
-| **Gironimo** 🦒 | Open-source **human-gated AI development system**. Converts specifications into architecture and implementation using specialized LLMs running locally or in the cloud. | [Repository](https://github.com/SlopOps/gironimo) • [Docs](https://gironimo.ai) |
-| **SlopOps** 🎥 | Educational content exploring **LLM workflows, AI development tooling, and real-world engineering practices.** | [YouTube](https://youtube.com/@SlopOps) • [X](https://x.com/SlopOps_AI) |
+| Project                | Description                                                                                                                                                                          | Links                                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Gironimo** 🦒        | Open-source **human-gated AI development system**. Converts specifications into architecture and implementation using specialized LLMs running locally or in the cloud.              | [Repository](https://github.com/SlopOps/gironimo) • [Docs](https://gironimo.ai)                |
+| **Gironimo Bench** 🏋️ | Curated **LLM benchmark series** evaluating models on design, architecture, code quality, Lighthouse metrics, feature completeness, and value. Featured in SlopOps YouTube episodes. | [Repository](https://github.com/SlopOps/gironimo-bench) • [Website](https://gironimo.ai/bench) |
+| **SlopOps** 🎥         | Educational videos exploring **AI-assisted development workflows, LLM tooling, and real engineering practices**. Includes Gironimo Bench leaderboard reviews and detailed analysis.  | [YouTube](https://youtube.com/@SlopOps) • [X](https://x.com/SlopOps_AI)                        |
 
 ---
 
 ## 🧠 Philosophy
 
-AI works best when used as **specialized tools inside structured development workflows**, not autonomous agents.
+AI is most effective when used as **specialized tools in structured workflows**, not autonomous agents.
 
 Core principles:
 
-* 📝 **Spec first** — clearly define the problem  
-* 🏗️ **Architecture second** — design systems intentionally  
-* 🛠️ **Implementation last** — write or generate code after approval  
-* 🚪 **Human gates** — engineers review important decisions  
+* 📝 **Spec first** — clearly define the problem
+* 🏗️ **Architecture second** — design systems intentionally
+* 🛠️ **Implementation last** — write or generate code after human review
+* 🚪 **Human gates** — engineers approve key decisions
 
-Goal: **predictable, auditable AI-assisted software development.**
+Goal: **predictable, auditable, and reproducible AI-assisted software development.**
 
 ---
 
 ## 🔧 Topics
 
-* AI-assisted software development workflows
-* LLM infrastructure and inference systems
-* Spec-driven engineering
+* LLM benchmarking for real-world engineering workflows
+* Spec-driven AI development
+* Gironimo Bench leaderboard reviews
 * Distributed inference (DGX, vLLM, cloud APIs)
-* AI tools for engineering teams
+* Production-ready AI-assisted software infrastructure
 
 ---
 
 ## 🎥 Educational Content
 
-Technical videos covering:
+Videos are structured for clarity and consistency, featuring:
 
-* modern AI development stacks
-* reliable LLM pipelines
-* integrating AI into real SDLC workflows
+* **Individual LLM runs** on the Gironimo Bench
+* Architecture, code quality, and feature analysis
+* Lighthouse metrics (performance, accessibility, best practices & security, SEO)
+* Feature completeness and value scoring
+* Final **Gironimo Score** and leaderboard update
 
-📺 https://youtube.com/@SlopOps
+📺 [Watch on YouTube](https://youtube.com/@SlopOps)
 
 ---
 
 ## 🤝 Open Source
 
-SlopOps develops and maintains open-source tooling related to **AI-assisted software development and engineering workflows.**
+SlopOps develops and maintains **open-source tools and benchmark systems** for AI-assisted engineering workflows.
 
-Contributions, issues, and discussions are welcome.
+* Contribute or file issues to help improve Gironimo and the Bench
+* Explore reproducible LLM runs and scoring methodology
 
-⭐ https://github.com/SlopOps
+⭐ [GitHub](https://github.com/SlopOps)
+
+---
+
+## 🌐 Website
+
+Leaderboard, benchmark results, and supporting documentation are available at:
+
+👉 [gironimo.ai](https://gironimo.ai/bench)
+
+Built from the Gironimo Bench repository using GitHub Pages — updated after every episode for transparency and reproducibility.
