@@ -1,4 +1,4 @@
-# 🎬 SlopOps
+# SlopOps
 
 **Open-source tools and educational content for engineers building production systems with LLMs.**
 
