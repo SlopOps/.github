@@ -12,7 +12,7 @@ SlopOps focuses on **real engineering workflows**, not hype. The core of the cha
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | **Gironimo** 🦒        | Open-source **human-gated AI development system**. Converts specifications into architecture and implementation using specialized LLMs running locally or in the cloud.              | [Repository](https://github.com/SlopOps/gironimo) • [Docs](https://gironimo.ai)                |
 | **Gironimo Bench** 🏋️ | Curated **LLM benchmark series** evaluating models on design, architecture, code quality, Lighthouse metrics, feature completeness, and value. Featured in SlopOps YouTube episodes. | [Repository](https://github.com/SlopOps/gironimo-bench) • [Website](https://gironimo.ai/bench) |
-| **SlopOps** 🎥         | Educational videos exploring **AI-assisted development workflows, LLM tooling, and real engineering practices**. Includes Gironimo Bench leaderboard reviews and detailed analysis.  | [YouTube](https://youtube.com/@SlopOps) • [X](https://x.com/SlopOps_AI)                        |
+| **SlopOps** 🎥         | Educational videos exploring **AI-assisted development workflows, LLM tooling, and real engineering practices**. Includes Gironimo Bench leaderboard reviews and detailed analysis.  | [YouTube](https://youtube.com/@SlopOps)                         |
 
 ---
 
